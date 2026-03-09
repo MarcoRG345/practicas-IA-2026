@@ -1,1 +1,1 @@
-# Implementaciones de algoritmos basados en agentes de IA
+# Algoritmos basados en agentes de Inteligencia Artificial.
