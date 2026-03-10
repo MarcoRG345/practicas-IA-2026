@@ -1,7 +1,13 @@
 # Algoritmos de busqueda.
 Practica 1 
 
+Ejercicio1 - Se resuelve implementando cualesquiera dos algoritmos DFS y BFS del ejercicio2 y 3.
+Para correr el ejercicio2 y el ejercicio3 situarse en el directorio src/ y ejecutar lo siguiente:
 
+a) python3 ejercicio2.py
+b) python3 ejercicio3.py
+
+Obtendra la salida del nodo solucion, la ultima accion que realizo, su padre y el total de nodos expandidos.
 
 Ejercicio 4. 
 la variable "expandidos" indica el numero de nuevos nodos hijos generados en la frontera. En el caso de BFS y DFS hay un margen
