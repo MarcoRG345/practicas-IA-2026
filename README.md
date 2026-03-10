@@ -12,6 +12,8 @@ lo suficientemente grande, la explotacion se relentiza, es decir, no acaba hasta
 recorremos por nivel, y en este caso solo tenemos 4 acciones posibles por verificar, para el nodo solucion econtrado en el nivel se dentra de ahi.
 
 
+Correr el archivo con: python ejercicio5y6.python
+
 Ejercicio 5 - A* Pesado con Heurística Manhattan
 Se implementó el algoritmo de A* pesado para resolver el 8-puzzle dado el estado inicial con el 5 en la esquina superior izquierda y el espacio vacío en la esquina inferior izquierda
 Usa la heurística de distancia Manhattan, que calcula cuántos movimientos le faltan a cada pieza para llegar a su posición en el
