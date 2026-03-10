@@ -1,8 +1,5 @@
 # Algoritmos basados en agentes de Inteligencia Artificial.
 Practica 1 
-Leslie Renée López Rodríguez 321171915
-Marco Antonio Raya García
-
 
 Ejercicio 5 - A* Pesado con Heurística Manhattan
 Se implementó el algoritmo de A* pesado para resolver el 8-puzzle dado el estado inicial con el 5 en la esquina superior izquierda y el espacio vacío en la esquina inferior izquierda
