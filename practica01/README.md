@@ -1,4 +1,4 @@
-# Algoritmos basados en agentes de Inteligencia Artificial.
+# Algoritmos de busqueda.
 Practica 1 
 
 
